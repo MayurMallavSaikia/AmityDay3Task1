@@ -1,5 +1,5 @@
-//var y = Math.floor(Math.random() * 100 + 1);
-var y = 30;  
+var y = Math.floor(Math.random() * 100 + 1);
+ 
    
     var guess = 1;
       
